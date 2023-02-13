@@ -15,6 +15,6 @@ go run .
 
 ```
 
-![]https://4.bp.blogspot.com/-_nm881jnBUU/XdbGQC_h-NI/AAAAAAAAE5U/o7PDFwqckvQbADIvin5yaRAyGwOVFKP8ACLcBGAsYHQ/s1600/golang.png
+![](https://4.bp.blogspot.com/-_nm881jnBUU/XdbGQC_h-NI/AAAAAAAAE5U/o7PDFwqckvQbADIvin5yaRAyGwOVFKP8ACLcBGAsYHQ/s1600/golang.png)
 
 
